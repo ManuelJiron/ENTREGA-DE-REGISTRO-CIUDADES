@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EJEMPLODELACLASETEMPORAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|d:\\ejemplodelaclasetemporal\\ejemplodelaclasetemporal\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|solutionrelative:ejemplodelaclasetemporal\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|D:\\EJEMPLODELACLASETEMPORAL\\ejemplodelaclasetemporal\\frmreportes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|solutionrelative:ejemplodelaclasetemporal\\frmreportes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EJEMPLODELACLASETEMPORAL||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|D:\\EJEMPLODELACLASETEMPORAL\\ejemplodelaclasetemporal\\reportes\\rptciudades.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|solutionrelative:ejemplodelaclasetemporal\\reportes\\rptciudades.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|D:\\EJEMPLODELACLASETEMPORAL\\ejemplodelaclasetemporal\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|solutionrelative:ejemplodelaclasetemporal\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|D:\\EJEMPLODELACLASETEMPORAL\\ejemplodelaclasetemporal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|solutionrelative:ejemplodelaclasetemporal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|D:\\EJEMPLODELACLASETEMPORAL\\ejemplodelaclasetemporal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|solutionrelative:ejemplodelaclasetemporal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|D:\\EJEMPLODELACLASETEMPORAL\\ejemplodelaclasetemporal\\dataset\\dsciudades.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|solutionrelative:ejemplodelaclasetemporal\\dataset\\dsciudades.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|D:\\EJEMPLODELACLASETEMPORAL\\ejemplodelaclasetemporal\\ciudadarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|solutionrelative:ejemplodelaclasetemporal\\ciudadarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFB0D1B-52D8-4542-8B5D-0B596F89BF8D}|EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj|d:\\ejemplodelaclasetemporal\\ejemplodelaclasetemporal\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EJEMPLODELACLASETEMPORAL",
+              "DocumentMoniker": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj",
+              "RelativeDocumentMoniker": "EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj",
+              "ToolTip": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj",
+              "RelativeToolTip": "EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-29T13:35:32.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmReportes.Designer.cs",
+              "DocumentMoniker": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\FrmReportes.Designer.cs",
+              "RelativeDocumentMoniker": "EJEMPLODELACLASETEMPORAL\\FrmReportes.Designer.cs",
+              "ToolTip": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\FrmReportes.Designer.cs",
+              "RelativeToolTip": "EJEMPLODELACLASETEMPORAL\\FrmReportes.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:12:41.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\FrmReportes.cs",
+              "RelativeDocumentMoniker": "EJEMPLODELACLASETEMPORAL\\FrmReportes.cs",
+              "ToolTip": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\FrmReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EJEMPLODELACLASETEMPORAL\\FrmReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:59:02.641Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RptCiudades.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\Reportes\\RptCiudades.rdlc",
+              "RelativeDocumentMoniker": "EJEMPLODELACLASETEMPORAL\\Reportes\\RptCiudades.rdlc",
+              "ToolTip": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\Reportes\\RptCiudades.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "EJEMPLODELACLASETEMPORAL\\Reportes\\RptCiudades.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-25T13:36:58.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\Ciudad.cs",
+              "RelativeDocumentMoniker": "EJEMPLODELACLASETEMPORAL\\Ciudad.cs",
+              "ToolTip": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\Ciudad.cs",
+              "RelativeToolTip": "EJEMPLODELACLASETEMPORAL\\Ciudad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:19:29.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\Form1.cs",
+              "RelativeDocumentMoniker": "EJEMPLODELACLASETEMPORAL\\Form1.cs",
+              "ToolTip": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\Form1.cs",
+              "RelativeToolTip": "EJEMPLODELACLASETEMPORAL\\Form1.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAYwMgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:19:29.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\Form1.cs",
+              "RelativeDocumentMoniker": "EJEMPLODELACLASETEMPORAL\\Form1.cs",
+              "ToolTip": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EJEMPLODELACLASETEMPORAL\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:19:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DsCiudades.xsd",
+              "DocumentMoniker": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\DataSet\\DsCiudades.xsd",
+              "RelativeDocumentMoniker": "EJEMPLODELACLASETEMPORAL\\DataSet\\DsCiudades.xsd",
+              "ToolTip": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\DataSet\\DsCiudades.xsd",
+              "RelativeToolTip": "EJEMPLODELACLASETEMPORAL\\DataSet\\DsCiudades.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-25T13:40:21.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CiudadArchivo.cs",
+              "DocumentMoniker": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\CiudadArchivo.cs",
+              "RelativeDocumentMoniker": "EJEMPLODELACLASETEMPORAL\\CiudadArchivo.cs",
+              "ToolTip": "D:\\EJEMPLODELACLASETEMPORAL\\EJEMPLODELACLASETEMPORAL\\CiudadArchivo.cs",
+              "RelativeToolTip": "EJEMPLODELACLASETEMPORAL\\CiudadArchivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:19:30.214Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
